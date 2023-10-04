@@ -87,7 +87,7 @@ $(document).ready(function() {
 			<input readonly class="product0"></input>
 			<input readonly class="amount0"></input>
 			</div>`)
-			$('.product0').val("Product1");
+			$('.product0').val("ВАЗ 2114");
 			$('.amount0').val(cart[i]);
 					break;
 
@@ -99,7 +99,7 @@ $(document).ready(function() {
 			<input readonly class="product1"></input>
 			<input readonly class="amount1"></input>
 			</div>`)
-			$('.product1').val("Product2");
+			$('.product1').val("Granta");
 			$('.amount1').val(cart[i]);
 					break;
 		
@@ -111,7 +111,7 @@ $(document).ready(function() {
 			<input readonly class="product2"></input>
 			<input readonly class="amount2"></input>
 			</div>`)
-			$('.product2').val("Product3");
+			$('.product2').val("Vesta Cross");
 			$('.amount2').val(cart[i]);
 					break;
 			
@@ -123,7 +123,7 @@ $(document).ready(function() {
 			<input readonly class="product3"></input>
 			<input readonly class="amount3"></input>
 			</div>`)
-			$('.product3').val("Product4");
+			$('.product3').val("Lada Priora 2");
 			$('.amount3').val(cart[i]);
 					break;
 			
